@@ -1,3 +1,4 @@
+![banner](./image/banner.png)
 # Capstone project-1
 # 📄 Semantic Resume Portfolio
 My first Capstone Project for Web Development: A professional resume built exclusively with HTML.
